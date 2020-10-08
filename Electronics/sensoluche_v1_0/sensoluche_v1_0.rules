@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 1028)
+    (start_pass_no 874)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -26,10 +26,10 @@
     )
   )
   (rule
-    (width 250.0)
-    (clear 175.2)
-    (clear 125.0 (type smd_to_turn_gap))
-    (clear 43.8 (type smd_smd))
+    (width 350.0)
+    (clear 350.2)
+    (clear 175.0 (type smd_to_turn_gap))
+    (clear 87.6 (type smd_smd))
   )
   (padstack "Via[0-1]_700:300_um"
     (shape
@@ -56,7 +56,7 @@
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 250.0)
+      (width 350.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
@@ -64,13 +64,13 @@
   )
   (class "kicad_default"
     /D13 /D12 +VDC /D11 GND /D10 "Net-(A1-Pad28)" /D9
-    "Net-(A1-Pad27)" /D8 /A7 "/D_Vibration" "/A_Adventure" "/D_Adventure" "/A_Drama" "/D_Drama"
-    "/A_Romance" "/D_Romance" "/A_Horror" "/D_Horror" "/A_Comedy" "/D_Comedy" "/A_Pressure" /A0
-    "Net-(A1-Pad3)" "Net-(A1-Pad18)" "Net-(A1-Pad2)" +3V3 "Net-(A1-Pad1)"
+    "Net-(A1-Pad27)" /D8 /A7 "/D_Vibration" "/A_Adventure" "/A_Drama" "/A_Romance" "/A_Horror"
+    "/A_Comedy" "/A_Pressure" "Net-(A1-Pad3)" "Net-(A1-Pad18)" +3V3 /D7 /A6 /D6
+    /D5 /D4 "/D0_RX" "/D1_TX" "Net-(J2-Pad8)" "Net-(J2-Pad7)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
-      (width 250.0)
+      (width 350.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
