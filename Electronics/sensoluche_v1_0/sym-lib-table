@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sensoluche_v1_0-rescue)(type Legacy)(uri ${KIPRJMOD}/sensoluche_v1_0-rescue.lib)(options "")(descr ""))
+)
