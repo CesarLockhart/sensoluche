@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"BOTTOM_LEFT_HOLE,TOP_LEFT_HOLE,TOP_RIGTH_HOLE,BOTTOM_RIGTH_HOLE";"MountingHole_3.2mm_M3";4;"MountingHole_3.2mm_M3";;;
+2;"J2,J1";"PinHeader_2x05_P2.54mm_Vertical";2;"EXT_IO_AN";;;
+3;"V1";"SW-420";1;"SW-420";;;
+4;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"100K";;;
+5;"P1";"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal";1;"FSR402_Pressure";;;
+6;"J3";"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal";1;"TB_2";;;
+7;"F5";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Flex_Adventure";;;
+8;"F4";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Flex_Drama";;;
+9;"F3";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Flex_Romance";;;
+10;"F2";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Flex_Horror";;;
+11;"F1";"TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal";1;"Flex_Comedy";;;
+12;"A1";"Arduino_Nano";1;"Arduino_Nano_33_BLE";;;
